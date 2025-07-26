@@ -42,39 +42,12 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
 - [Contributor](#contributor)
 - [License](#license)
 
-## Tutorials
-- [Draw on the Web](https://airingursb.gitbooks.io/canvas/content/)
-- [The Aesthetics of Graph Visualization](https://www.researchgate.net/publication/220795329_The_Aesthetics_of_Graph_Visualization)
-- [Computer Graphics And Visualization](https://ng-tech.icu/CGDataVis-Series/#/)
-- [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
-- [Internet Explorer 9 Guide for Developers: HTML5 canvas element](https://docs.microsoft.com/en-us/previous-versions/hh410106(v=msdn.10)?redirectedfrom=MSDN#_HTML5_canvas)
-- [The canvas element in the HTML5 draft standard](https://html.spec.whatwg.org/multipage/canvas.html#the-canvas-element)
-- [HTML5 Canvas — the Basics](https://dev.opera.com/articles/html5-canvas-basics/)
-- [HTML5 Canvas - RUNOOB Tutorial](https://www.runoob.com/html/html5-canvas.html)
-- [HTML5 Canvas - W3school Tutorial](https://www.w3school.com.cn/html/html5_canvas.asp)
-- [HTML5 Canvas - 廖雪峰 Tutorial](https://www.liaoxuefeng.com/wiki/1022910821149312/1023022423592576)
-- [HTML5 Canvas - IMOOC Tutorial](https://www.imooc.com/wiki/html5/canvas.html)
-- [The Chinese series of learning tutorials of HTML5 canvas](https://github.com/827652549/CanvasStudy)
-- [AntV Graphin - Graph Database White Paper](https://graphin.antv.vision/solution/database/graph-database)
-- [AntV Graphin - Knowledge Graph White Paper](https://graphin.antv.vision/solution/knowledge-graph)
-- [AntV Graphin - Network Security White Paper](https://graphin.antv.vision/solution/security)
-- [AntV Graphin - Enterprise Risk Control White Paper](https://graphin.antv.vision/solution/enterprise/enterprise-risk-control)
-
-## Books
-- 《[HTML5 Canvas开发详解](http://product.dangdang.com/11012245144.html)》 Author: Steve Fulton, Jeff Fulton [Link🔗](http://product.dangdang.com/11012245144.html)
-- 《[TypeScript图形渲染实战：2D架构设计与实现](http://product.dangdang.com/28499406.html)》 Author: 步磊峰 [Link🔗](http://product.dangdang.com/28499406.html)
-- 《[HTML5 Canvas核心技术：图形、动画与游戏开发](https://item.jd.com/11312007.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_53285100_0_1932113745&utm_term=2f9a0a9984c64a1983d8e5eff928839a)》 Author: David Geary
-- 《[HTML5 2D游戏编程核心技术](https://item.jd.com/25570817493.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_53285100_0_1932113745&utm_term=ea99fc143d004c78b5b3bd12381b357e)》 Author: David Geary
-- 《[HTML5 Canvas游戏开发实战](http://e.dangdang.com/products/1900396102.html)》 Author: 张路斌 [Link🔗](http://e.dangdang.com/products/1900396102.html)
-- 《[从0到1 HTML5 Canvas动画开发](http://product.dangdang.com/28549249.html)》 Author: 莫振杰 [Link🔗](http://product.dangdang.com/28549249.html)
-- 《[HTML5 Canvas核心技术: 图形、动画与游戏开发](http://product.dangdang.com/1798930436.html)》 Author: Geary [Link🔗](http://product.dangdang.com/1798930436.html)
-- 《[D3 for impatient: interactive Graphics for Programmers and Scientists](http://product.dangdang.com/28556039.html)》 Author: Philipp K. Janert [Link🔗](http://product.dangdang.com/28556039.html)
-- 《[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.cn/book/6844723714655780871)》 Author: sunshine小小倩 [Link🔗](https://juejin.cn/book/6844723714655780871)
-- 《[可视化入门：从 0 到 1 开发一个图表库](https://juejin.cn/book/7031893648145186824)》 Author: AntV [Link🔗](https://juejin.cn/book/7031893648145186824)
-- 《[Graph Analysis and Visualization](https://book.douban.com/subject/26756024/)》 Author: Richard Brath  / David Jonker [Link🔗](https://book.douban.com/subject/26756024/)
-- 《[Visual Complexity: Mapping Patterns of Information](https://book.douban.com/subject/25665238/)》 Author: Manuel Lima [Link🔗](https://book.douban.com/subject/25665238/)
-- 《[Data visualization](https://book.douban.com/subject/25760272/)》 Author: 陈为 / 沈则潜 [Link🔗](https://book.douban.com/subject/25760272/)
-- 《[从0-1入门数据可视化](https://wzf1997.github.io/learn-visualization/blog/three/3dearth.html)》 Author: Fly
+## Resources Website
+- [CodePen Canvas Resources](https://codepen.io/search/pens?q=canvas)
+- [ANIMPEN Canvas Resources](https://animpen.com/search/pens?q=canvas)
+- [JQuery之家 Canvas Resources](http://www.htmleaf.com/html5/html5-canvas/)
+- [jq22 Canvas Resources](https://www.jq22.com/search?seo=canvas)
+- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
 
 ## Libraries
 ### Canvas draw
@@ -127,39 +100,6 @@ List of awesome HTML5 Canvas with libraries, plugins, examples, course, books an
   - [exokit](https://github.com/exokitxr/exokit) [[Online Demo](https://exokit.org/)] - Native VR/AR/XR engine for JavaScript 🦖 ![](https://img.shields.io/github/stars/exokitxr/exokit?style=social) ![](https://img.shields.io/github/forks/exokitxr/exokit?style=social)
   - [webvr-boilerplate](https://github.com/borismus/webvr-boilerplate) [[Online Demo](https://borismus.github.io/webvr-boilerplate/#)] - A starting point for web-based VR experiences that work on all VR headsets. ![](https://img.shields.io/github/stars/borismus/webvr-boilerplate?style=social) ![](https://img.shields.io/github/forks/borismus/webvr-boilerplate?style=social)
 
-### Physics engine
-  - [matter-js](https://brm.io/matter-js/) [[Online Demo](https://brm.io/matter-js/demo/#mixed)] - a 2D rigid body physics engine for the web ▲● ■ ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
-  - [box2d.js](https://github.com/kripken/box2d.js) [[Online Demo](http://kripken.github.io/box2d.js/demo/webgl/box2d.html)] - Port of Box2D to JavaScript using Emscripten. ![](https://img.shields.io/github/stars/kripken/box2d.js?style=social) ![](https://img.shields.io/github/forks/kripken/box2d.js?style=social)
-  - [p2.js](https://github.com/schteppe/p2.js) [[Online Demo](http://schteppe.github.io/p2.js/demos/springs.html)] - JavaScript 2D physics library. ![](https://img.shields.io/github/stars/schteppe/p2.js?style=social) ![](https://img.shields.io/github/forks/schteppe/p2.js?style=social)
-  - [planck.js](https://github.com/shakiba/planck.js) [[Online Demo](https://piqnt.com/planck.js/)] - 2D JavaScript Physics Engine. ![](https://img.shields.io/github/stars/shakiba/planck.js?style=social) ![](https://img.shields.io/github/forks/shakiba/planck.js?style=social)
-
-### Game engine
-  - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[Online Demo](https://hiloteam.github.io/examples/index.html)] - A Cross-end HTML5 Game development solution developed by Alibaba Group. ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
-  - [melonJS](https://melonjs.org/) [[Online Demo](https://www.melongaming.com/)] - a fresh & lightweight javascript game engine. ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
-  - [Babylon.js](https://github.com/BabylonJS/Babylon.js) [[Online Demo](https://www.babylonjs.com/community/)] - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/forks/BabylonJS/Babylon.js?style=social)
-  - [taro](https://github.com/Cloud9c/taro) [[Online Demo](https://www.echou.xyz/taro/examples/#Cube)] - A lightweight 3D game engine for the web. ![](https://img.shields.io/github/stars/Cloud9c/taro?style=social) ![](https://img.shields.io/github/forks/Cloud9c/taro?style=social)
-  - [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) [[Online Demo](http://biz.turbulenz.com/samples)] - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. ![](https://img.shields.io/github/stars/turbulenz/turbulenz_engine?style=social) ![](https://img.shields.io/github/forks/turbulenz/turbulenz_engine?style=social)
-  - [eva.js](https://github.com/eva-engine/eva.js) [[Online Demo](https://eva.js.org/playground/#/resource)] - Eva.js is a front-end game engine specifically for creating interactive game projects. ![](https://img.shields.io/github/stars/eva-engine/eva.js?style=social) ![](https://img.shields.io/github/forks/eva-engine/eva.js?style=social)
-  - [PlayCanvas](https://github.com/playcanvas/engine) [[Online Demo](https://playcanvas.github.io/#/)] - Fast and lightweight JavaScript game engine built on WebGL and glTF ![](https://img.shields.io/github/stars/playcanvas/engine?style=social) ![](https://img.shields.io/github/forks/playcanvas/engine?style=social)
-  - [Sketchbook](https://github.com/swift502/Sketchbook) [[Online Demo](https://jblaha.art/sketchbook/0.4/)] - 3D playground built on three.js and cannon.js ![](https://img.shields.io/github/stars/swift502/Sketchbook?style=social) ![](https://img.shields.io/github/forks/swift502/Sketchbook?style=social)
-  - [Sein.js](https://github.com/hiloteam/Sein.js) [[Online Demo](https://seinjs.com/cn/example/start/start)]- Progressive web 3D game engine. ![](https://img.shields.io/github/stars/hiloteam/Sein.js?style=social) ![](https://img.shields.io/github/forks/hiloteam/Sein.js?style=social)
-  - [PuzzleScript](https://github.com/increpare/PuzzleScript) [[Online Demo](https://www.puzzlescript.net/)] - Open Source HTML5 Puzzle Game Engine ![](https://img.shields.io/github/stars/increpare/PuzzleScript?style=social) ![](https://img.shields.io/github/forks/increpare/PuzzleScript?style=social)
-  - [LittleJS](https://github.com/KilledByAPixel/LittleJS) [[Online Demo](https://killedbyapixel.github.io/LittleJS/examples/puzzle/)] - The Tiny JavaScript Game Engine That Can! 🚂 ![](https://img.shields.io/github/stars/KilledByAPixel/LittleJS?style=social) ![](https://img.shields.io/github/forks/KilledByAPixel/LittleJS?style=social)
-  - [Black](https://github.com/MassiveHeights/Black) [[Online Demo](https://blacksmith2d.io/Docs/Examples)] - World's fastest HTML5 2D game engine 🛸 ![](https://img.shields.io/github/stars/MassiveHeights/Black?style=social) ![](https://img.shields.io/github/forks/MassiveHeights/Black?style=social)
-  - [stage.js](https://github.com/shakiba/stage.js) [[Online Demo](https://piqnt.com/stage.js/)] - 2D HTML5 rendering and layout engine for game development. ![](https://img.shields.io/github/stars/shakiba/stage.js?style=social) ![](https://img.shields.io/github/forks/shakiba/stage.js?style=social)
-  - [pixijs](https://github.com/pixijs/pixijs) [[Online Demo](https://www.goodboydigital.com/pixijs/storm/?base=pixijs&category=storm)] - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. ![](https://img.shields.io/github/stars/pixijs/pixijs?style=social) ![](https://img.shields.io/github/forks/pixijs/pixijs?style=social)
-  - [Excalibur](https://github.com/excaliburjs/Excalibur) [[Online Demo](https://excaliburjs.com/samples/)] - 🎮 An easy to use 2D HTML5 game engine written in TypeScript. ![](https://img.shields.io/github/stars/excaliburjs/Excalibur?style=social) ![](https://img.shields.io/github/forks/excaliburjs/Excalibur?style=social)
-  - [Akihabara](https://github.com/kesiev/akihabara) [[Online Demo](http://www.kesiev.com/akihabara/)] - About
-A game engine for making classic arcade style games using Javascript and HTML5. ![](https://img.shields.io/github/stars/kesiev/akihabara?style=social) ![](https://img.shields.io/github/forks/kesiev/akihabara?style=social)
-  - [iioEngine](https://github.com/sbiermanlytle/iioEngine) [[Online Demo](http://iioengine.com/)] - A JavaScript game engine for HTML5 Canvas ![](https://img.shields.io/github/stars/sbiermanlytle/iioEngine?style=social) ![](https://img.shields.io/github/forks/sbiermanlytle/iioEngine?style=social)
-  - [cocos2d-js](https://github.com/cocos2d/cocos2d-js) [[Online Demo](https://www.cocos.com/)] cocos2d-x for js. ![](https://img.shields.io/github/stars/cocos2d/cocos2d-js?style=social) ![](https://img.shields.io/github/forks/cocos2d/cocos2d-js?style=social)
-  - [Phaser](https://github.com/photonstorm/phaser) [[Online Demo](https://phaser.io/examples)] - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. ![](https://img.shields.io/github/stars/photonstorm/phaser?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser?style=social)
-    - [phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework. ![](https://img.shields.io/github/stars/photonstorm/phaser-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-examples?style=social)
-    - [games](https://github.com/channingbreeze/games) - List of small games based on phaser ![](https://img.shields.io/github/stars/channingbreeze/games?style=social) ![](https://img.shields.io/github/forks/channingbreeze/games?style=social)
-    - [phaser3-examples](https://github.com/photonstorm/phaser3-examples) - Phaser 3 Examples. ![](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-examples?style=social)
-    - [phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
-    - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - A Phaser 3 Project Template. ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
-  - [hex-engine](https://github.com/suchipi/hex-engine) [[Online Demo](https://hex-engine.dev/docs/examples)] - A modern 2D game engine for the browser. ![](https://img.shields.io/github/stars/suchipi/hex-engine?style=social) ![](https://img.shields.io/github/forks/suchipi/hex-engine?style=social)
 
 ### Flowchart
   - [GOJS](https://gojs.net/latest/index.html) [[Online Demo](https://gojs.net/latest/samples/)] - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. ![](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS?style=social) ![](https://img.shields.io/github/forks/NorthwoodsSoftware/GoJS?style=social)
@@ -384,12 +324,6 @@ A game engine for making classic arcade style games using Javascript and HTML5. 
   - [react-native-canvas](https://github.com/iddan/react-native-canvas) - A Canvas component for React Native. ![](https://img.shields.io/github/stars/iddan/react-native-canvas?style=social) ![](https://img.shields.io/github/forks/iddan/react-native-canvas?style=social)
   - [origamijs](https://raphamorim.io/origamijs/docs/) - Powerful and Lightweight Library to create using HTML5 Canvas ![](https://img.shields.io/github/stars/raphamorim/origami.js?style=social) ![](https://img.shields.io/github/forks/raphamorim/origami.js?style=social)
 
-## Resources Website
-- [CodePen Canvas Resources](https://codepen.io/search/pens?q=canvas)
-- [ANIMPEN Canvas Resources](https://animpen.com/search/pens?q=canvas)
-- [JQuery之家 Canvas Resources](http://www.htmleaf.com/html5/html5-canvas/)
-- [jq22 Canvas Resources](https://www.jq22.com/search?seo=canvas)
-- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
 
 ## Plugins
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) [[Online Demo](https://www.kirilv.com/canvas-confetti/)] - 🎉 on-demand confetti gun. ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social) ![](https://img.shields.io/github/forks/catdad/canvas-confetti?style=social)
@@ -403,27 +337,41 @@ A game engine for making classic arcade style games using Javascript and HTML5. 
 - [shape-shifter](https://github.com/kennethcachia/shape-shifter) [[Online Demo](http://www.kennethcachia.com/shape-shifter/)] - A canvas experiment in which a set of particles is used to render different shapes based on the user's input. It supports multiple modes: text, countdown, time and icons. ![](https://img.shields.io/github/stars/kennethcachia/shape-shifter?style=social) ![](https://img.shields.io/github/forks/kennethcachia/shape-shifter?style=social)
 - [canvas-test](https://github.com/whxaxes/canvas-test) - some cnavas demo.
 
-## Articles
-- [可视化私房菜](https://www.yuque.com/antv/blog/2021s2) - 可视化国家队的私房菜，用心烹调，以飨读者。
-- [体系化建设 BI 业务定制图表](https://www.yuque.com/antv/vis-library)
-- [图可视化知多少](https://www.yuque.com/antv/g6-blog) - 图可视化、图分析及图编辑知识库。
-- [G2Plot 可视化圈子](https://www.yuque.com/antv/g2plot)
-- [G2：图形、交互语法](https://www.yuque.com/antv/g2-docs)
-- [可视化小讲堂](https://www.yuque.com/antv/gvvtcf)
-- [如何看待 Google Docs 将从 HTML 迁移到基于 Canvas 渲染？](https://www.zhihu.com/question/459251463) - @知乎 海蓝
-- [用Canvas画一只会跟着鼠标走的小狗](https://zhuanlan.zhihu.com/p/34139676) - @知乎 李银城
-- [用Canvas + WASM画一个迷宫](https://zhuanlan.zhihu.com/p/28203300) - @知乎 李银城
-- [玩转「Canvas」](https://www.bianchengquan.com/article/140323.html) - 编程圈 @糖少
-- [JS之使用Canvas绘图](https://www.jianshu.com/p/802c3bd2df34) - 简书 @LemonnYan
-- [一个少女心满满的例子带你入门 Canvas](https://juejin.cn/post/6844903490020442125) - Juejin @sunshine小小倩
-- [为了让她10分钟入门canvas，我熬夜写了3个小项目和这篇文章](https://juejin.cn/post/6986785259966857247) - Juejin @Sunshine_Lin
-- [更优雅地基于 canvas 在前端画海报](https://juejin.cn/post/6844903870276206606) - Juejin @2dunn
-- [【🎨万物皆可动】详解Canvas路径动画](https://juejin.cn/post/6924866572972457992)- Juejin @ChanningHyl
-- [产品经理：你能不能用div给我画条龙？](https://juejin.cn/post/6963476650356916254) - Juejin @大帅老猿
-- [Canvas性能优化](https://juejin.cn/post/6844903682761310216) - Juejin @清夜
-- [为了让你们进阶Canvas，我花7小时写了3个有趣的小游戏！！！](https://juejin.cn/post/6989003710030413838) - Juejin @Sunshine_Lin
-- [十分钟实现灭霸打响指灰飞烟灭的效果](https://juejin.cn/post/6844903840249020429) - Juejin @wangzy2019
-- [匠心打造canvas签名组件](http://louiszhai.github.io/2017/07/07/canvas-draw/) - @路易斯
+
+
+### Game engine
+  - [Hilo](https://github.com/hiloteam/Hilo/blob/dev/README_ZH.md) [[Online Demo](https://hiloteam.github.io/examples/index.html)] - A Cross-end HTML5 Game development solution developed by Alibaba Group. ![](https://img.shields.io/github/stars/hiloteam/Hilo?style=social) ![](https://img.shields.io/github/forks/hiloteam/Hilo?style=social)
+  - [melonJS](https://melonjs.org/) [[Online Demo](https://www.melongaming.com/)] - a fresh & lightweight javascript game engine. ![](https://img.shields.io/github/stars/melonjs/melonJS?style=social) ![](https://img.shields.io/github/forks/melonjs/melonJS?style=social)
+  - [Babylon.js](https://github.com/BabylonJS/Babylon.js) [[Online Demo](https://www.babylonjs.com/community/)] - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social) ![](https://img.shields.io/github/forks/BabylonJS/Babylon.js?style=social)
+  - [taro](https://github.com/Cloud9c/taro) [[Online Demo](https://www.echou.xyz/taro/examples/#Cube)] - A lightweight 3D game engine for the web. ![](https://img.shields.io/github/stars/Cloud9c/taro?style=social) ![](https://img.shields.io/github/forks/Cloud9c/taro?style=social)
+  - [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) [[Online Demo](http://biz.turbulenz.com/samples)] - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. ![](https://img.shields.io/github/stars/turbulenz/turbulenz_engine?style=social) ![](https://img.shields.io/github/forks/turbulenz/turbulenz_engine?style=social)
+  - [eva.js](https://github.com/eva-engine/eva.js) [[Online Demo](https://eva.js.org/playground/#/resource)] - Eva.js is a front-end game engine specifically for creating interactive game projects. ![](https://img.shields.io/github/stars/eva-engine/eva.js?style=social) ![](https://img.shields.io/github/forks/eva-engine/eva.js?style=social)
+  - [PlayCanvas](https://github.com/playcanvas/engine) [[Online Demo](https://playcanvas.github.io/#/)] - Fast and lightweight JavaScript game engine built on WebGL and glTF ![](https://img.shields.io/github/stars/playcanvas/engine?style=social) ![](https://img.shields.io/github/forks/playcanvas/engine?style=social)
+  - [Sketchbook](https://github.com/swift502/Sketchbook) [[Online Demo](https://jblaha.art/sketchbook/0.4/)] - 3D playground built on three.js and cannon.js ![](https://img.shields.io/github/stars/swift502/Sketchbook?style=social) ![](https://img.shields.io/github/forks/swift502/Sketchbook?style=social)
+  - [Sein.js](https://github.com/hiloteam/Sein.js) [[Online Demo](https://seinjs.com/cn/example/start/start)]- Progressive web 3D game engine. ![](https://img.shields.io/github/stars/hiloteam/Sein.js?style=social) ![](https://img.shields.io/github/forks/hiloteam/Sein.js?style=social)
+  - [PuzzleScript](https://github.com/increpare/PuzzleScript) [[Online Demo](https://www.puzzlescript.net/)] - Open Source HTML5 Puzzle Game Engine ![](https://img.shields.io/github/stars/increpare/PuzzleScript?style=social) ![](https://img.shields.io/github/forks/increpare/PuzzleScript?style=social)
+  - [LittleJS](https://github.com/KilledByAPixel/LittleJS) [[Online Demo](https://killedbyapixel.github.io/LittleJS/examples/puzzle/)] - The Tiny JavaScript Game Engine That Can! 🚂 ![](https://img.shields.io/github/stars/KilledByAPixel/LittleJS?style=social) ![](https://img.shields.io/github/forks/KilledByAPixel/LittleJS?style=social)
+  - [Black](https://github.com/MassiveHeights/Black) [[Online Demo](https://blacksmith2d.io/Docs/Examples)] - World's fastest HTML5 2D game engine 🛸 ![](https://img.shields.io/github/stars/MassiveHeights/Black?style=social) ![](https://img.shields.io/github/forks/MassiveHeights/Black?style=social)
+  - [stage.js](https://github.com/shakiba/stage.js) [[Online Demo](https://piqnt.com/stage.js/)] - 2D HTML5 rendering and layout engine for game development. ![](https://img.shields.io/github/stars/shakiba/stage.js?style=social) ![](https://img.shields.io/github/forks/shakiba/stage.js?style=social)
+  - [pixijs](https://github.com/pixijs/pixijs) [[Online Demo](https://www.goodboydigital.com/pixijs/storm/?base=pixijs&category=storm)] - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. ![](https://img.shields.io/github/stars/pixijs/pixijs?style=social) ![](https://img.shields.io/github/forks/pixijs/pixijs?style=social)
+  - [Excalibur](https://github.com/excaliburjs/Excalibur) [[Online Demo](https://excaliburjs.com/samples/)] - 🎮 An easy to use 2D HTML5 game engine written in TypeScript. ![](https://img.shields.io/github/stars/excaliburjs/Excalibur?style=social) ![](https://img.shields.io/github/forks/excaliburjs/Excalibur?style=social)
+  - [Akihabara](https://github.com/kesiev/akihabara) [[Online Demo](http://www.kesiev.com/akihabara/)] - About
+A game engine for making classic arcade style games using Javascript and HTML5. ![](https://img.shields.io/github/stars/kesiev/akihabara?style=social) ![](https://img.shields.io/github/forks/kesiev/akihabara?style=social)
+  - [iioEngine](https://github.com/sbiermanlytle/iioEngine) [[Online Demo](http://iioengine.com/)] - A JavaScript game engine for HTML5 Canvas ![](https://img.shields.io/github/stars/sbiermanlytle/iioEngine?style=social) ![](https://img.shields.io/github/forks/sbiermanlytle/iioEngine?style=social)
+  - [cocos2d-js](https://github.com/cocos2d/cocos2d-js) [[Online Demo](https://www.cocos.com/)] cocos2d-x for js. ![](https://img.shields.io/github/stars/cocos2d/cocos2d-js?style=social) ![](https://img.shields.io/github/forks/cocos2d/cocos2d-js?style=social)
+  - [Phaser](https://github.com/photonstorm/phaser) [[Online Demo](https://phaser.io/examples)] - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. ![](https://img.shields.io/github/stars/photonstorm/phaser?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser?style=social)
+    - [phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework. ![](https://img.shields.io/github/stars/photonstorm/phaser-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-examples?style=social)
+    - [games](https://github.com/channingbreeze/games) - List of small games based on phaser ![](https://img.shields.io/github/stars/channingbreeze/games?style=social) ![](https://img.shields.io/github/forks/channingbreeze/games?style=social)
+    - [phaser3-examples](https://github.com/photonstorm/phaser3-examples) - Phaser 3 Examples. ![](https://img.shields.io/github/stars/photonstorm/phaser3-examples?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-examples?style=social)
+    - [phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. ![](https://img.shields.io/github/stars/photonstorm/phaser-ce?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser-ce?style=social)
+    - [phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - A Phaser 3 Project Template. ![](https://img.shields.io/github/stars/photonstorm/phaser3-project-template?style=social) ![](https://img.shields.io/github/forks/photonstorm/phaser3-project-template?style=social)
+  - [hex-engine](https://github.com/suchipi/hex-engine) [[Online Demo](https://hex-engine.dev/docs/examples)] - A modern 2D game engine for the browser. ![](https://img.shields.io/github/stars/suchipi/hex-engine?style=social) ![](https://img.shields.io/github/forks/suchipi/hex-engine?style=social)
+
+### Physics engine
+  - [matter-js](https://brm.io/matter-js/) [[Online Demo](https://brm.io/matter-js/demo/#mixed)] - a 2D rigid body physics engine for the web ▲● ■ ![](https://img.shields.io/github/stars/liabru/matter-js?style=social) ![](https://img.shields.io/github/forks/liabru/matter-js?style=social)
+  - [box2d.js](https://github.com/kripken/box2d.js) [[Online Demo](http://kripken.github.io/box2d.js/demo/webgl/box2d.html)] - Port of Box2D to JavaScript using Emscripten. ![](https://img.shields.io/github/stars/kripken/box2d.js?style=social) ![](https://img.shields.io/github/forks/kripken/box2d.js?style=social)
+  - [p2.js](https://github.com/schteppe/p2.js) [[Online Demo](http://schteppe.github.io/p2.js/demos/springs.html)] - JavaScript 2D physics library. ![](https://img.shields.io/github/stars/schteppe/p2.js?style=social) ![](https://img.shields.io/github/forks/schteppe/p2.js?style=social)
+  - [planck.js](https://github.com/shakiba/planck.js) [[Online Demo](https://piqnt.com/planck.js/)] - 2D JavaScript Physics Engine. ![](https://img.shields.io/github/stars/shakiba/planck.js?style=social) ![](https://img.shields.io/github/forks/shakiba/planck.js?style=social)
 
 ## Contributor
 
