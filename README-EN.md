@@ -1,6 +1,4 @@
-![](./assets/logo.png)
-## awesome-canvas
-List of awesome HTML5 Canvas with libraries, plugins, examples, course, books and related articles.
+# awesome-canvas
 
 ## Summary
 - [awesome-canvas](#awesome-canvas)
